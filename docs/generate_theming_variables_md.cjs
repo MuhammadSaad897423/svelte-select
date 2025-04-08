@@ -51,3 +51,4 @@ const VARIABLE_SECTION_PATTERN = /(<!-- List start -->)(.|\n)*(<!-- List end -->
   );
   console.log(`Successfully wrote to ${DOC_FILE_PATH}`);
 })();
+  console.log(`Successfully wrote to ${DOC_FILE_PATH_FIX}`);
